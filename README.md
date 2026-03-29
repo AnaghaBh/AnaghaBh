@@ -5,13 +5,6 @@ My interests include computational models of memory, network-driven belief forma
 
 ---
 
-## Current Work
-- Modelling neural dynamics using deep learning architectures  
-- Analysing how network structure influences information propagation  
-- Exploring cognitive and motor impairements
-  
----
-
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-444444?style=flat-square&logo=c%2B%2B&logoColor=white)
