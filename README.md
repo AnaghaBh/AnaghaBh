@@ -1,6 +1,5 @@
 ## About Me
 I work at the intersection of computer science and neuroscience, with a focus on memory systems, social networks, and neural analysis.
-
 My interests include computational models of memory, network-driven belief formation, and representation learning in both biological and artificial systems.
 ---
 ## Current Work
