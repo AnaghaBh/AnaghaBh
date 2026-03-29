@@ -1,10 +1,65 @@
-#  About Me:
-I’m interested in the intersection of computer science and neuroscience, with a focus on memory systems, social networks, and neural analysis.
+## About Me
+I work at the intersection of computer science and neuroscience, with a focus on memory systems, social networks, and neural analysis.
 
+My interests include computational models of memory, network-driven belief formation, and representation learning in both biological and artificial systems.
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anagha-bhavsar-0b0a17236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arbhavsar3011@gmail.com) 
+---
 
-#  Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## Current Work
+- Modelling neural dynamics using deep learning architectures  
+- Analysing how network structure influences information propagation  
+- Exploring cognitive and motor impairements
 
+---
+
+## Tech Stack
+
+![C++](https://img.shields.io/badge/c++-444444?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-444444?style=flat-square&logo=haskell&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-444444?style=flat-square&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-444444?style=flat-square&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-444444?style=flat-square&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-444444?style=flat-square&logo=python&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assemblyscript-444444?style=flat-square&logo=assemblyscript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-444444?style=flat-square&logo=amazon-aws&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-444444?style=flat-square&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-444444?style=flat-square&logo=opencv&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-444444?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-444444?style=flat-square&logo=react&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-444444?style=flat-square&logo=nginx&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/dynamodb-444444?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-444444?style=flat-square&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/neo4j-444444?style=flat-square&logo=neo4j&logoColor=white)
+![Lightroom](https://img.shields.io/badge/lightroom-444444?style=flat-square&logo=adobe-lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-444444?style=flat-square&logo=canva&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-444444?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-444444?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-444444?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-444444?style=flat-square&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-444444?style=flat-square&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-444444?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-444444?style=flat-square&logo=matplotlib&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-444444?style=flat-square&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/cmake-444444?style=flat-square&logo=cmake&logoColor=white)
+![R](https://img.shields.io/badge/r-444444?style=flat-square&logo=r&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-444444?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-444444?style=flat-square&logo=streamlit&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-444444?style=flat-square&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-444444?style=flat-square&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-444444?style=flat-square&logo=kubernetes&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-444444?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AnaghaBh&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=AnaghaBh&theme=default&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaghaBh&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/anagha-bhavsar-0b0a17236/)  
+arbhavsar3011@gmail.com
