@@ -1,12 +1,17 @@
 ## About Me
+
 I work at the intersection of computer science and neuroscience, with a focus on memory systems, social networks, and neural analysis.
 My interests include computational models of memory, network-driven belief formation, and representation learning in both biological and artificial systems.
+
 ---
+
 ## Current Work
 - Modelling neural dynamics using deep learning architectures  
 - Analysing how network structure influences information propagation  
 - Exploring cognitive and motor impairements
+  
 ---
+
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-444444?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -43,7 +48,9 @@ My interests include computational models of memory, network-driven belief forma
 ![Postgres](https://img.shields.io/badge/postgres-444444?style=flat-square&logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-444444?style=flat-square&logo=kubernetes&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-444444?style=flat-square&logo=notion&logoColor=white)
+
 ---
+
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/anagha-bhavsar-0b0a17236/)  
 arbhavsar3011@gmail.com
